@@ -6,4 +6,25 @@
 
 
 - 🌱 I’m currently learning - Python
-- 📫 Find me on [Telegram](https://t.me/iKomiSan) 
+- 📫 Find me on [Telegram](https://t.me/iKomiSan)
+
+```js
+import LazyKomi from 'Shouko';
+
+class Bio extends LazyKomi {
+  name     = 'Komi San';
+  title    = 'Lazy';
+  location = 'Chandigarh, India';
+}
+
+class Skills extends LazyKomi {
+  languages  = ['JavaScript', 'Python' , 'Golang' , 'TS' , 'Nodejs' , "Dart"];
+  databases  = ['Redis', 'MongoDB', 'Mysql'];
+}
+```
+<details><h5><b>
+<summary> Profile Views </summary></h5></b>
+
+![Profile views](https://gpvc.arturio.dev/KomiSanx)
+
+</details>
