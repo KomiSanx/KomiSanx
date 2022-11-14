@@ -22,8 +22,8 @@ class Skills extends LazyKomi {
   databases  = ['Redis', 'MongoDB', 'Mysql'];
 }
 ```
-<details><h5><b>
-<summary> Profile Views </summary></h5></b>
+<details>
+<summary><h5><b>Profile Views</summary></h5></b>
 
 ![Profile views](https://gpvc.arturio.dev/KomiSanx)
 
