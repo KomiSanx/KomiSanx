@@ -25,6 +25,9 @@ class Skills extends LazyKomi {
 <details>
 <summary><h5><b>Profile Views</summary></h5></b>
 
+<div align="center">
+
 ![Profile views](https://gpvc.arturio.dev/KomiSanx)
 
+</div>
 </details>
